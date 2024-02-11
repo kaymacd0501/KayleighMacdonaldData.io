@@ -1,0 +1,3 @@
+520 x 390
+Rectangle is 130 tall, at 65% opacity
+Lucida Sans at size 28, centered
